@@ -20,6 +20,6 @@ Video Link: https://www.youtube.com/watch?v=HXlZjClAcNU
 
 ## Usage
 - Load up your Minecraft world. If you performed the datapack installation steps with the world already open, type `/reload` to enable the datapack
-- Once the group is ready, have the speedrunner player run the following command" `/function compass:track_me`
+- Once the group is ready, have the speedrunner player run the following command: `/function compass:track_me`
   - **Note**: If you don't want to give the speedrunner command permissions, anyone with said permissions can instead run the following command: `/execute as <speedrunner> run function compass:track_me`, where `<speedrunner>` is replaced with the name of the speedrunner
 - If a hunter happens to lose their compass, have them run the command `/function compass:get_compass` to get a new one.
